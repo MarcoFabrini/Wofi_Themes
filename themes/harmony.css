@@ -1,13 +1,8 @@
 window {
-    margin: 0px;
+    margin-left: 0px;
     border: 1.5px solid #70ccdb;
     background-color: #163235;
     border-radius: 10px;
-}
-
-list {
-    background-color: #05908d;
-    border-radius: 6px;
 }
 
 #input {
@@ -29,11 +24,6 @@ list {
     background-color: #163235;
 }
 
-#scroll {
-    margin: 0px;
-    border: none;
-}
-
 #text {
     margin: 5px;
     border: none;
@@ -41,6 +31,11 @@ list {
 }
 
 #entry:selected {
+    background-color: #05908d;
+    border-radius: 6px;
+}
+
+list {
     background-color: #05908d;
     border-radius: 6px;
 }
