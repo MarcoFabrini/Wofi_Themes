@@ -2,7 +2,7 @@
 
 A curated collection of beautiful themes for Wofi, the GTK-based application launcher for Wayland.
 
-## image
+## 🖼️ image
 
 ### ∞ harmony
 
