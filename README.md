@@ -40,6 +40,15 @@ cp themes/<theme-name>.css ~/.config/wofi/style.css
 
 ---
 
+### 4. Copy the config file you want
+
+Replace `<config-name>` with the name of the config file you want to use:
+
+```bash
+cp config/<config-name> ~/.config/wofi/config
+```
+---
+
 ## 🚀 Launch Wofi
 
 Now when you launch Wofi, it will use your selected theme. Enjoy the new look!
