@@ -5,7 +5,7 @@ A curated collection of beautiful themes for Wofi, the GTK-based application lau
 ## 🖼️ image
 
 ### ∞ harmony
-![harmony](images/harmony.png)
+![harmony](./images/harmony.png)
 
 ### ⛩️ anime
 ![anime](images/anime.png)
@@ -41,6 +41,15 @@ cp themes/<theme-name>.css ~/.config/wofi/style.css
 
 > 🎨 Tip: You can preview themes in the `images/` folder to choose the one that suits your style.
 
+---
+
+### 4. Copy the config file you want
+
+Replace `<config-name>` with the name of the config file you want to use:
+
+```bash
+cp config/<config-name> ~/.config/wofi/config
+```
 ---
 
 ## 🚀 Launch Wofi
