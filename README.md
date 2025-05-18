@@ -40,9 +40,3 @@ cp themes/<theme-name>.css ~/.config/wofi/style.css
 ## 🚀 Launch Wofi
 
 Now when you launch Wofi, it will use your selected theme. Enjoy the new look!
-
----
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
