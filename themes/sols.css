@@ -3,7 +3,7 @@ window {
     padding: 0px;
     opacity: 0.9;
     border: 3px solid #921f45;
-    background-color: rgba(184, 82, 69, 0.9); /*background*/
+    background-color: rgba(184, 82, 69, 0.9);
     border-radius: 10px 10px 10px 10px;
 }
 
@@ -18,13 +18,13 @@ window {
 #inner-box {
     margin: 5px;
     border: none;
-    background-color: #b85245; /*background*/
+    background-color: #b85245;
 }
 
 #outer-box {
     margin: 5px;
     border: none;
-    background-color: #b85245; /*background*/
+    background-color: #b85245; 
 }
 
 #text {
