@@ -4,6 +4,9 @@ A curated collection of beautiful themes for Wofi, the GTK-based application lau
 
 ## 🖼️ image
 
+### 🎋 sols
+![sols](./images/sols.png)
+
 ### ∞ harmony
 ![harmony](./images/harmony.png)
 
