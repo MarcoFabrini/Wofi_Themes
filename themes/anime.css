@@ -2,7 +2,7 @@ window {
     margin: 0px;
     padding: 0px;
     opacity: 0.9;
-    border: 2px solid #99e1d0;
+    border: 2px solid rgba(234, 253, 240, 0.9);
     background-color: #eafdf0;
     border-radius: 0 10px 10px 0;
 }
