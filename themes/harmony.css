@@ -1,12 +1,14 @@
 window {
-    margin-left: 0px;
+    margin: 0px;
+    padding: 0px;
+    opacity: 0.9;
     border: 1.5px solid #70ccdb;
     background-color: #163235;
-    border-radius: 10px;
+    border-radius: 10px 10px 10px 10px;
 }
 
 #input {
-    margin: 5px;
+    margin: 2px;
     border: none;
     color: #163235;
     background-color: #a5ffff;
