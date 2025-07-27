@@ -4,6 +4,9 @@ A curated collection of beautiful themes for Wofi, the GTK-based application lau
 
 ## 🖼️ image
 
+### ⛩️ chaotic-room
+![anime](images/chaotic-room.png)
+
 ### 🎋 sols
 ![sols](./images/sols.png)
 
