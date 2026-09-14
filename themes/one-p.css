@@ -33,6 +33,21 @@ window {
     color: #e8c896;
 }
 
+#entry {
+    background-color: #16344a;
+}
+
+#expander-box {
+    background-color: #16344a;
+}
+
+#expander-box #text,
+#expander-box label,
+#expander-box .dim-label {
+    color: #e8c896 !important;
+    opacity: 1 !important;
+}
+
 #entry:selected {
     background-color: #d97b3f;
     border-radius: 6px;
